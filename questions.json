@@ -1,0 +1,54 @@
+[
+  {
+    "q1": {
+      "question": "Who played Neo in The Matrix?",
+      "options": ["Michael Oliver", "Keanu Reeves", "Jackie Chan", "Kevin Hart"]
+    },
+    "q2": {
+      "question": "What is the capital city of Spain?",
+      "options": ["Madrid", "Barcelona", "Santiago", "Houston"]
+    },
+    "q3": {
+      "question": "What is the world's longest river?",
+      "options": ["River Niger", "Amazon", "Antarctic Ocean", "Nile"]
+    },
+    "q4": {
+      "question": "What is another word for lexicon?",
+      "options": ["Text Book", "Dictionary", "Internet", "Holy Book"]
+    },
+    "q5": {
+      "question": " Who invented the telephone?",
+      "options": [
+        "Charles Babbage",
+        "Michael Faraday",
+        "Alexander Graham Bell",
+        "George Graham"
+      ]
+    },
+    "q6": {
+      "question": "Name the world’s biggest island?",
+      "options": ["Blue Land", "Green Land", "House Land", "Sky Land"]
+    },
+    "q7": {
+      "question": "Which is the highest mountain in Africa?",
+      "options": [
+        "Mount Elgon",
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Mount Meru"
+      ]
+    },
+    "q8": {
+      "question": "How many grams are there in a kilogram?",
+      "options": ["1200g", "3000g", "4000", "1000g"]
+    },
+    "q9": {
+      "question": "Where would you find the Sea of Tranquility? ",
+      "options": ["The Stars", "The Moon", "The Sea", "The Sun"]
+    },
+    "q10": {
+      "question": "Where did the Olympic Games originate? ",
+      "options": ["Greece", "Holland", "Brazil", "USA"]
+    }
+  }
+]
