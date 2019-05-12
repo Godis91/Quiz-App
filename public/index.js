@@ -8,7 +8,7 @@ new Vue({
   },
 
   mount() {
-    fetch('/api/test').then(response => {
+    fetch('git push heroku master/api/test').then(response => {
       response.json().then(data => {
         this.questions = data;
       });
