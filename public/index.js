@@ -8,7 +8,7 @@ new Vue({
   },
 
   mount() {
-    fetch('http://localhost:4000/api/test').then(response => {
+    fetch('/api/test').then(response => {
       response.json().then(data => {
         this.questions = data;
       });
